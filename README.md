@@ -1,2 +1,0 @@
-# Memegenerator
-Created with CodeSandbox
